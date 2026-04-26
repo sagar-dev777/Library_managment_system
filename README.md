@@ -48,7 +48,7 @@ Library-Management-System/
 1. Clone the repository:
 
    ```
-   git clone <your-repo-link>
+   git clone https://github.com/sagar-dev777/Library_managment_system.git
    ```
 
 2. Navigate to the project folder:
